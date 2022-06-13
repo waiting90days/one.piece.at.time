@@ -28,7 +28,7 @@
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p>
 
-<p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 30px;" color="#003471"><strong style="">Chum</strong></font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p>
+<p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 30px;" color="#003471"><strong style="">Chum</strong></font></p>
 
 <p align="center"><img src="shark6.jpg" alt="" title="" border="0" width="440" height="240" style="margin: 10px auto; display: block;"><br></p>
 
