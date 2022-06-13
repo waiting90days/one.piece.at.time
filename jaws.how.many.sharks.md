@@ -1,7 +1,5 @@
 
 
-<p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 36px;"><STRONG>Jaws - The Story</STRONG></font></p>
-
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 36px;" color="#003471"><strong style="">How Many Sharks Can you Count?</strong></font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471">Don't Cheat.. LOOK first!&nbsp; &nbsp;--- Number at the Bottom of Page</font></p>
 
 
