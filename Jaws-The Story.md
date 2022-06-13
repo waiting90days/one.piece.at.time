@@ -1,9 +1,3 @@
----
-layout: default
-title: The Story Behind the Car
----
-
-<p><br></p>
 
 
 
