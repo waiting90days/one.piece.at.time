@@ -30,7 +30,7 @@
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 30px;" color="#003471"><strong style="">Chum</strong></font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p>
 
-<p align="center"><img src="shark6.jpg" alt="" title="" border="0" width="420" height="240" style="margin: 10px auto; display: block;"><br></p>
+<p align="center"><img src="shark6.jpg" alt="" title="" border="0" width="440" height="240" style="margin: 10px auto; display: block;"><br></p>
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471">The original Great White Shark that started it all.... he loves kicking it in the back, feeling when those tires break free and whip a tail back</font></p>
 
@@ -61,7 +61,7 @@
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 30px;" color="#003471"><strong style="">Sharknado</strong></font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p>
 
-<p align="center"><img src="shark9.jpg" alt="" title="" border="0" width="280" height="400" style="margin: 10px auto; display: block;"><br></p>
+<p align="center"><img src="shark9.jpg" alt="" title="" border="0" width="300" height="400" style="margin: 10px auto; display: block;"><br></p>
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471">He's whipping up a storm and bringing that shark power into Jaws when she lights up.&nbsp;&nbsp;He ate a guy once and now his granddaughter really hates him.</font></p>
 
