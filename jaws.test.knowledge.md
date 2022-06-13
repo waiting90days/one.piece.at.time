@@ -1,8 +1,3 @@
----
-layout: default
-title: Jaws -- Test Your Knowledge
----
-
 <p style="margin-bottom: 0px !important;"><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><strong>Test Your Knowledge</strong></font></p>
 
 <p style="margin-top: 0px !important; margin-bottom: 0px !important;"><br></p>
