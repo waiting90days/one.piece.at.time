@@ -6,7 +6,7 @@
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 30px;" color="#003471"><strong style="">Torpedo</strong></font></p>
 
-<p align="center"><img src="shark13.JPG" alt="" title="" border="0" width="250" height="250" style="margin: 10px auto; display: block;"><br></p>
+<p align="center"><img src="shark13.jpg" alt="" title="" border="0" width="250" height="250" style="margin: 10px auto; display: block;"><br></p>
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471">She works hard in the engine ensuring the Pontiac 455 has full power doing peel outs... it is known she adds about 82 Horsepower&nbsp;</font></p>
 
