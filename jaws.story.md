@@ -59,3 +59,5 @@
 <img src="Dukes Hazzard.JPG" alt="" title="" border="0" width="400" height="280" style="margin: 10px auto; display: block;">
 
 <img src="roadrunner.jpg" alt="" title="" border="0" width="400" height="230" style="margin: 10px auto; display: block;">
+
+<div align="center"><a href="https://waiting90days.github.io/one.piece.at.time/jaws.how.many.sharks" class="stylizedButton buttonStyle003">How Many Sharks</a>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="https://waiting90days.github.io/one.piece.at.time/jaws.test.knowledge" class="stylizedButton buttonStyle003">Test Your Knowledge</a></div><p><br></p>
