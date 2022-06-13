@@ -1,9 +1,4 @@
 
-layout: default
-title: Jaws -- The Story
-
-
-
 <p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>The Story</STRONG></font></p>
 
 <p><img src="henry j.jpg" alt="" title="" border="0" width="230" height="250" style="margin: 10px;" align="left"><font color="#003471" face="Arial, Helvetica, sans-serif">I grew up around car shows since an infant as my parents owned mainly Fords and Lincolns.&nbsp; In that time I grew to love certain cars, Corvettes first pulled me away from Fords, and then the love of the '55 Nomad.</font></p>
