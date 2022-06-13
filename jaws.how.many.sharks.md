@@ -14,7 +14,7 @@
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p>
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 30px;" color="#003471"><strong style="">Bruce</strong></font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p>
 
-<p align="center"><img src="shark11.jpg" alt="" title="" border="0" width="400" height="260" style="margin: 10px auto; display: block;"><br></p>
+<p align="center"><img src="shark11.jpg" alt="" title="" border="0" width="410" height="250" style="margin: 10px auto; display: block;"><br></p>
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471">Always hungry, you might catch him with his latest snack... </font></p>
 
@@ -30,7 +30,7 @@
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 30px;" color="#003471"><strong style="">Chum</strong></font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p>
 
-<p align="center"><img src="shark6.jpg" alt="" title="" border="0" width="400" height="240" style="margin: 10px auto; display: block;"><br></p>
+<p align="center"><img src="shark6.jpg" alt="" title="" border="0" width="420" height="240" style="margin: 10px auto; display: block;"><br></p>
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471">The original Great White Shark that started it all.... he loves kicking it in the back, feeling when those tires break free and whip a tail back</font></p>
 
@@ -55,19 +55,19 @@
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 30px;" color="#003471"><strong style="">Skinny Minny</strong></font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p>
 
-<p align="center"><img src="shark12.jpg" alt="" title="" border="0" width="380" height="250" style="margin: 10px auto; display: block;"><br></p>
+<p align="center"><img src="shark12.jpg" alt="" title="" border="0" width="380" height="260" style="margin: 10px auto; display: block;"><br></p>
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471">Real bull shark jaws, hungry but no where to put it</font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p>
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 30px;" color="#003471"><strong style="">Sharknado</strong></font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p>
 
-<p align="center"><img src="shark9.jpg" alt="" title="" border="0" width="260" height="400" style="margin: 10px auto; display: block;"><br></p>
+<p align="center"><img src="shark9.jpg" alt="" title="" border="0" width="280" height="400" style="margin: 10px auto; display: block;"><br></p>
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471">He's whipping up a storm and bringing that shark power into Jaws when she lights up.&nbsp;&nbsp;He ate a guy once and now his granddaughter really hates him.</font></p>
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 30px;" color="#003471"><strong style="">Buzzsaw</strong></font></p>
 
-<p align="center"><img src="shark5.jpg" alt="" title="" border="0" width="400" height="230" style="margin: 10px auto; display: block;"><br></p>
+<p align="center"><img src="shark5.jpg" alt="" title="" border="0" width="420" height="230" style="margin: 10px auto; display: block;"><br></p>
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p>
 
@@ -89,7 +89,7 @@
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 30px;" color="#003471"><strong style="">Starvin' Marvin</strong></font></p>
 
-<p align="center"><img src="shark12.jpg" alt="" title="" border="0" width="350" height="250" style="margin: 10px auto; display: block;"><br></p>
+<p align="center"><img src="shark3.jpg" alt="" title="" border="0" width="400" height="250" style="margin: 10px auto; display: block;"><br></p>
 
 <p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471"><br></font></p><p align="center"><font face="Arial, Helvetica, sans-serif" style="font-size: 18px;" color="#003471">Racing down the highway, those pesky police showing up?&nbsp; No worries Starvin' Marvin will eat the license plate before we get&nbsp; ticket</font></p>
 
