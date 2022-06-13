@@ -1,7 +1,7 @@
----
+
 layout: default
 title: Jaws -- The Story
----
+
 
 
 <p><font color="#003471" face="Arial, Helvetica, sans-serif" style="font-size: 30px;"><STRONG>The Story</STRONG></font></p>
